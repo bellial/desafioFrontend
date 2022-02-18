@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #fff;
+}
+h1,
+h2{
+    font-weight: 700;
+}
+h1{
+    padding: 1em;
+    text-align: center;
+}
+h2{
+    padding-bottom: 1em;
+}
+h3{
+    font-size: 1em;
+}
+main{
+    background-color: #ccc;
+}
+.row{
+    padding: 1em;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.tip{
+    color:#666;
+    border-color: transparent;
+    background-color: transparent;
+}
+.tip:hover{
+    color: #fff;
+    border-color: transparent;
+    background-color: transparent;
+}
